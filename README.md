@@ -13,7 +13,7 @@ This repository contains a series of visualizations analyzing NBA player and tea
 
 ## Tableau Dashboard
 <img width="1482" alt="Screenshot 2024-04-23 at 7 58 51 PM" src="https://github.com/rehan13/NBA-Data-Visualization/assets/79845546/b0eed233-711d-4008-87c9-b6d032ffb1fd">
-The full interactive dashboard can be viewed [here](https://public.tableau.com/app/profile/rehan.mondal/viz/Book1_17139275811360/Dashboard1?publish=yes)
+The full interactive dashboard can be viewed on https://public.tableau.com/app/profile/rehan.mondal/viz/Book1_17139275811360/Dashboard1?publish=yes
 
 
 ## Technologies Used
