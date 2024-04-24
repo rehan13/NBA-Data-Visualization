@@ -11,10 +11,16 @@ This repository contains a series of visualizations analyzing NBA player and tea
 - **Viz 5**: Efficiency of prolific playmakers based on the assist-to-turnover ratio.
 - **Viz 6**: A detailed look at LeBron James' scoring performance across his career.
 
+## Tableau Dashboard
+<img width="1482" alt="Screenshot 2024-04-23 at 7 58 51 PM" src="https://github.com/rehan13/NBA-Data-Visualization/assets/79845546/b0eed233-711d-4008-87c9-b6d032ffb1fd">
+The full interactive dashboard can be viewed [here](https://public.tableau.com/app/profile/rehan.mondal/viz/Book1_17139275811360/Dashboard1?publish=yes)
+
+
 ## Technologies Used
 - Python
 - Pandas for data manipulation.
 - Altair for generating interactive visualizations.
+- Tableau
 
 ## Data
 The data used in these visualizations is hosted on GitHub and can be accessed [here](https://github.com/asmdrk/eda/blob/main/NBA.csv?raw=true). The dataset includes various statistics from NBA games and players, such as points scored, three-pointers made, and assists per game.
